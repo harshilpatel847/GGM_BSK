@@ -1,0 +1,4 @@
+These are the source files for the website created for administration of the Bal Sanskar Kendra program of the Gayatri Gyan Mandir or Itasca, IL
+
+The site runs off of a single SQL database containing four tables: registrants, attendance, homework, and teams. The files containing the code to generate these tables can be found in the /sql folder.
+There are also sample .csv and .txt files with data of student registrations. 
