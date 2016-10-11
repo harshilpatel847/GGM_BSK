@@ -1,0 +1,203 @@
+#start, #header, #footer {
+	padding:.5em 1.5em 0 1.5em;
+	margin:2em auto 0 auto;
+	text-align: center;
+	width: 60%;
+}
+#start form {
+	padding: .5em;
+	margin: .5em;
+	text-align: justify;
+}
+h1 {
+  	color: #0080FF;
+  	font-size: 3em;
+	font-weight:600;
+  	text-transform: capitalize;
+ 	margin:0;
+	padding:0;
+}
+table {
+	margin: .5em;
+	padding: .5em;
+	width:100%;
+}
+th {
+	color: #FFFFFF;
+}
+tr {
+	border-bottom: solid 1px #0080FF;
+	font-size: 1.5em;
+	text-align: center;
+}
+tr:Hover {
+	background: #0080FF;
+}
+input.text, input[type="date"], input[type="password"], input[type="radio"].text, select.text {
+	text-align:left;
+	vertical-align:bottom;
+	margin-top:.25em;
+	padding:0;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	border-bottom: 2px solid #0080FF;
+	background: #ffffff;
+	color: #000000;
+	font-weight: 300;
+	font-size: 2em;
+	width:100%; 
+}
+p {
+	color:#0080FF;
+	font-size:1.5em;
+	margin:0;
+	padding:.25em;
+}
+a {
+	text-decoration:none;
+	font-size:2em;
+}
+a:hover {
+	text-decoration:underline;
+}
+.field_title, .input_field .field_title, .input_field_full .field_title {
+  font-size: 1em;
+  padding-top:0;
+}
+.input_field {
+	margin: 0;
+	padding:.5em;
+	display: inline-block;
+	width:49%;
+}
+.input_field_full {
+	margin: 0;
+	padding:.5em;
+	display: inline-block;
+	width:98%;
+}
+input:disabled, textarea:disabled, select:disabled {
+	color: #6CB4FC;
+	cursor: default;
+}
+#scorebutton {
+	margin-right: .25em;
+	margin-bottom:.5em;
+	margin-top:0;
+	padding:.5em;
+	background: #FFFFFF;
+	color: #0080FF;
+	font-size:1.5em;
+	font-weight:500;
+	text-align:center;
+	vertical-align:middle;
+	text-transform: uppercase;
+	text-decoration:none;
+	border: 1px solid #0080FF;
+	cursor: default;	
+	width: 23%;
+}
+#linkbutton {
+	margin:.25em;
+	padding:.5em;
+	background: #a9dd7d;
+	color: #fff;
+	font-size:1.5em;
+	font-weight:500;
+	text-align:center;
+	vertical-align:middle;
+	text-transform: uppercase;
+	text-decoration:none;
+	border: none;
+	cursor: pointer;
+}
+#linkbutton_small {
+	margin:.75;
+	background: #a9dd7d;
+	color: #fff;
+	font-size:2.5em;
+	font-weight:400;
+	text-align:center;
+	vertical-align:middle;
+	text-transform: uppercase;
+	text-decoration:none;
+	border: none;
+	cursor: pointer;
+}
+#linkbutton:hover {
+	background: #fea15d;
+}
+input[type=checkbox] {
+	display:none;
+} 
+input[type=checkbox] + label {	
+	height: 35px;
+	width: 30px;
+	display:inline-block;
+	background-image: url("../images/unchecked.png");
+	background-repeat: no-repeat;
+	background-size: 30px;	
+}
+input[type=checkbox]:checked + label {
+	height: 35px;
+	width: 30px;	
+	display:inline-block;
+	background-image: url("../images/checked.png");
+	background-repeat: no-repeat;
+	background-size: 30px;
+}
+
+@media only screen 
+  and (max-device-width: 400px) {
+	  .field_title, .input_field .field_title, .input_field_full .field_title {
+		  font-size: 2em;
+		  padding-top:0;
+	  }
+	  tr:Hover {
+		  background: #FFFFFF;
+	  }
+	  input[type=checkbox] + label {
+		  height: 110px;
+		  width: 100px;
+		  background-size: 100px;
+	  }
+	  input[type=checkbox]:checked + label {
+		  height: 110px;
+		  width: 100px;
+		  background-size: 100px;
+	  }
+	  #show_on_mobile {
+		  font-size: 2em;
+		  font-weight: 500;
+		  padding: 1em 0 1em 0;
+		  margin: 1.5em 0 1.5em 0;
+	  }
+	  #hide_on_mobile {
+		  display: none;
+	  }
+	  p {
+		  font-size: 2em;
+	  }
+	  #start, #header, #footer {
+		  width: 100%;
+	  }
+	  #linkbutton {
+		  padding: 1em;
+		  width: 100%;
+		  font-size: 4em;
+		  font-weight: 600;
+	  }
+	  input.text, select.text, option {
+		  font-size: 4em;
+	  }
+	  table.text {
+		  font-size: 4em;
+	  }
+	  .input_field {
+		  width: 100%;
+	  }
+	  .input_field_full {
+		  width: 100%;
+	  }
+}

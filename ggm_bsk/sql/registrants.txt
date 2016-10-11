@@ -1,0 +1,77 @@
+1	s	Nitin	Addanki	2005-04-19		346 Buckingham Ct	Lombard	60148	847-844-3219	847-276-1406	Sandhya Addanki	Srinivasu Addanki	sandhya_addanki@yahoo.com	Srinivasu Addanki	847-276-1406
+2	s	Maya	Amin	2000-05-28		601 Aborn Ave.	Elgin	60124	847-628-6290	630-222-7887	Parul Amin	Sudhir Amin	parul.amin@comcast.net	Parul Amin	630-222-7887
+3	s	Mihir	Amin	2003-06-01		2060 Norwich Dr	Bartlett	60103	630-550-7159	630-550-7159	Gita	Mayur	m_amin9@hotmail.com	Gita Patel	630-550-7159
+4	s	Rohan	Amin	2003-09-30		601 Aborn Ave	Elgin	60124	630-222-7887	630-222-7887	Parul	Sudhir	parul.amin@comcast.net	Parul Amin	630-222-7887
+5	s	Suhana	Amin	2006-03-18		2060 Norwich	Bartlett	60103	630-550-7159	630-550-7159	Gita	Mayu	m_amin9@hotmail.com	Gita Patel	630-550-7159
+6	s	Akshay	Brahmbhatt	2003-02-28		1432 Myrhe Park	Schaumburg	60193	630-893-8182	847-987-8126	Phalguni	Devang	barotphalguni@gmail.com	Kanika Thakkar	630-347-2200
+7	s	Anika	Brahmbhatt	2005-08-10		1432 Myrhe Park	Schaumburg	60193	630-893-8182	847-989-8126	Phalguni	Debvang	barotphalguni@gmail.com	Bharat Barot	785-341-6343
+8	s	Milan	Chander	2004-05-17		7928 Arcadia st	Morton grove	60053	847-966-9869	847-924-6872	Manisha	Manu	Mchander123@yahoo.com	Manu Chander	847-971-6323
+9	s	Shivani	Darji	1997-12-07		4 Cherrywood Dr.	Schaumburg	60194	847-519-9266	224-595-8923	Vidita	Naresh	viditadarji@yahoo.com	Ashok Soni	847-354-8151
+10	s	Nishka	Dash	2008-12-03		6005 Stewart dr 611 	Willowbrook	60527	8143211634	8143211634	Niharika Mishra	Kamala Dash	Kbdash@gmail.com	Niharika Mishra	8143082792
+11	s	Anuj	Desai	2001-11-25		245 picardy lane	Bolingbrook	60440	630-378-4743	630-770-2507	Mamta	Dhiren	amarughar520@sbc global .net	desai dhiren	630-770-2507
+12	s	deep	diganvker	1999-10-23		924 manchester cir	schaumburg	60193	224-595-5005	224-595-1814	naliniben	jitendra	diganvker@gmail.com	jitendradiganvker	224-595-5005
+13	s	Eesha	Kayastha	2007-05-21		5n271 swift road	Itasca	60143	630-361-8524	312-493-9238	Gayatri	Paras	Gkayastha80@gmail.com	Paras Kayastha 	312-493-9237
+14	s	Shivani	Kayastha	2001-04-03		5n271 swift road	Itasca	60143	630-361-8524	312-493-9238	Gayatri 	Paras	Gkayastha80@gmail.com	Paras	312-493-9237
+15	s	Mallika 	Malhotra	2004-04-25		91 Fulbright Ln	Schaumburg	60194	847-466-5236	-	Mona Malhotra	Hari Malhotra	m04malhotra@yahoo.com	Mona Malhotra	847-387-9048
+16	s	Mansi	Malhotra	2006-06-02		91 Fulbright Ln	Schaumburg 	60194	847-466-5236	-	Mona Malhotra	Hari Malhotra	m04malhotra@yahoo.com	Mona Malhotra	847-387-9048
+17	s	Harsh	Mangrola	1999-11-01		1767 penny ln	Bartlett	60103	630-855-6790	630-398-0199	Pravina	Parakram	parakram76@gmail.com	parakram mangrola	630-398-0199
+18	s	Krupa	Mangrola	1991-05-17		9727 Keeler Avenue	Skokie	60076	847-673-2622	630-518-6206	Vandana	Harendra	krupamangrola@gmail.com	Vandana Mangrola	847-343-1805
+19	s	Shubh	Mangrola	2005-01-14		1767 penny ln	Bartlett	60103	630-855-6790	630-398-0199	Pravina	Parakram	parakram76@gmail.com	parakram mangrola	630-398-0199
+20	s	avi	mirani	2010-11-26		8417 w bryn mawr ave	chicago	60631	3123201263	3123201263	ajisha	neeraj	ajishashah@Gmail.com	neeraj	3127525294
+21	s	Krishna	Mistry	2007-01-31		530 N.6th Ave	addison	60101	77-455-6349	773-517-7907	Pratixa	Pravin	pratixamistry@yahoo.com	Pravin Mistry	773-517-7907
+22	s	Mahi	Mistry	2008-05-14		530N.6th Ave	Addison	60101	773-455-6349	773-517-7907	Pratixa	Pravin	pratixamistry@yahoo.com	Pravin Mistry	773-517-7907
+23	s	Raina	Parekh	2009-08-22		603 Sharon ln	North Aurora	60542	847-971-7729	847-971-7729	Shruti	Deven	shrutig@yahoo.com	Malka Gandhi	630-618-1894
+24	s	Nidhi	Patel	2002-04-11		1200 Woodlake Dr	Carol Stream	61088-6033	630-221-8521	630-596-6667	Vasuben	Vishnu	omnidhi1@yahoo.com	Vishnu Patel	630-880-5556
+25	s	Aadi	Patel	2006-05-08		1670 w. byron ave	Addison	60101	630-560-9212	217-550-4611	Artiben	Arvindbhai	artiarvindpatel@gmail.com	Artiben patel	217-550-4611
+26	s	Aarav	Patel	2009-04-07		125 Lela Lane	Schaumburg	60193	847-732-1249	847-370-6968	Bhavini Patel	Kamal Patel	beanie426@hotmail.com	Nanila Patel	847-722-4294
+27	s	Akhil	Patel	2005-01-17		820 S Prospect Ave	Bartlett	60103	630-855-3627	630-965-9492	Akta	Hitesh	hiteshpatel09@hotmail.com	Hitesh Patel	630-965-9492
+28	s	Ayush	Patel	2004-11-08		664 Willow Dr.	Carol Stream	60188	630-933-8455	630-415-8482	Amita	Mahesh	maheshd_patel@hotmail.com	Mahesh Patel	630-415-8482
+29	s	Bansari 	Patel	1997-07-02		934 High Ridge Pass	Carol Stream	60188	630-293-3334	630-823-1752	Bela Patel	Kalpesh Patel	smilebright57@gmail.com	Hemal Patel	630-213-1753
+30	s	Dev	Patel	2004-07-02		1477 W Autumn Trl	Addison	60101	630-847-7960	630-442-3317	Daxa	Ramanbhai	daxarp@yahoo.com	Raman	630-442-3318
+31	s	Dharma	Patel	1999-02-11		820 S Prospect Ave	Bartlett	60103	630-855-3627	630-965-9492	Akta	Hitesh	dharmapatel99@gmail.com	Hitesh Patel	630-965-9492
+32	s	Dhenu	Patel	2008-06-20		1330 Branden Lane	Bartlett	60103	847-279-1644	-	Sangita Patel	Suresh Patel	psangita91@yahoo.com	Kanubhai Patel	224-200-9399
+33	s	Diya	patel	2005-04-23		1670 w. byron ave.	Addison	60101	630-560-9212	217-550-4611	Artiben patel	Arvindbhai Patel	artiarvindpatel@gmail.com	Artiben Patel	217-550-4611
+34	s	Harshal	Patel	2001-08-18		1330 Branden Lan	Bartlett 	60103	847-279-1644	-	Sangita Patel	Suresh Patel	psangita91@yahoo.com	Kanubhai Patel	224-200-9399
+35	s	Isha 	Patel	2006-07-23		750 Goodfield Landing	Elgin	60124	224-238-3867	630-670-6378	Hemangi	Shailendra	hemangi1979@yahoo.com	Pravin Patel/Kashulya Patel	3602898584
+36	s	Janki 	Patel	1995-09-06		934 High Ridge Pass	Carol Stream	60188	630-293-3334	630-823-1753	Bela Patel	Kalpesh Patel	crzynerd512@gmail.com	Hemal Patel	630-213-8658
+37	s	Jiya	Patel	2009-09-03		979 Tallgrass DR	Bartlett	60103	630-432-4763	-	Disha Patel	Arpit Patel	arpitbpatel@gmail.com	Arpit Patel	630-432-4763
+38	s	Kevin	Patel	1995-02-04		5383 elizabeth place	rolling meadows	60007	847-590-9279	224-795-3139	Janak	Kamlesh	kevinp4tel@aim.com	kamlesh patel	8475909279
+39	s	Khushi	Patel	2005-09-15		1489 Wintrhop Ct.	Glendale Heights	60139	630-537-7239	630-965-5166	Sharmista Patel	Kalpesh patel	patelsharmi0718@gmail.com	Sharmista Patel	630-965-5166
+40	s	Krish 	Patel	2003-08-10		1489 Winthrop Ct.	Glendale Heights	60139	630-537-7239	630-965-5166	Sharmista Patel	Kalpesh Patel	patelsharmi0718@gmail.com	Sharmista Patel	630-965-5166
+41	s	Krisha	Patel	2005-04-16		1330 Branden Lane	Bartlett	60103	847-279-1644	-	Sangita Patel	Suresh Patel	psangita91@yahoo.com	Sangita Patel	224-202-5349
+42	s	Krishna	Patel	1999-05-03		5383 Elizabeth Place	Rolling Meadows	60008	847-590-9279	225-795-3135	Janak Patel	Kamlesh Patel	krishkrishpat@gmail.com	Kamlesh Patel	847-275-9398
+43	s	Krupa	Patel	1999-12-23		1250 N Wheeling Rd	Mount Prospect	60056	847-253-1603	847-848-5640	Kusum Patel	Mukesh Patel	kusum3069@yahoo.com	Shila Patel	224-558-6480
+44	s	Kruti	Patel	1999-12-23		1250 N Wheeling Rd	Mount Prospect	60056	847-253-1603	847-848-5640	Kusum Patel	Mukesh Patel	kusum3069@yahoo.com	Shila Patel	224-558-6480
+45	s	Kush	Patel	2002-01-23		664 Willow Dr.	Carol Stream	60188	630-933-8455	630-415-8482	Amita	Mahesh	maheshd_patel@hotmail.com	Mahesh Patel	630-415-8482
+46	s	Kush	Patel	2006-06-09		1477 W Aututmn trl	Addison	60101	630-847-7960	630-442-3317	Daxa	Raman	daxarp@yahoo.com	Ramanbhai	630-442-3318
+47	s	Neel	Patel	1995-10-24		259 H Dover Drive	Des Plaines	60018	847-803-6356	847-370-5191	Nilaben Patel	Ramanlal Patel	npb-ball@hotmail.com	Bhavini Pate	847-732-1249
+48	s	Nidhi	Patel	2002-04-11		1200 Woodlake Dr	Carol stream	60188	630-372-9899	630-880-5556	Vasuben Patel	Vishnu Patel	omnidhi1@yahoo.com	Vishnu Patel	630-596-6667
+49	s	Nundun	Patel	2005-05-23		6 Tangly Ct.	Bolingbrook	60440	630-296-8464	630-291-1466	Hetal	Savan	savanvpatel@yahoo.com	Savan Patel	630-854-6076
+50	s	OM	Patel	2005-04-30		1200 Woodlake Dr	Carol Stream	60188	630-372-9899	630-880-5556	Vasuben Patel	Vishnu Patel	omnidhi1@yahoo.com	Vishnu Patel	630-596-6667
+51	s	Purav	Patel	2005-10-29		197 Jeffrey Lane	Bolingbrook	60440	6302968463	6308495944	Nikita	Haresh	nikitahpatel13@yahoo.com630	Nikita Patel	6308495944
+52	s	Ria	Patel	2006-04-15		1274 N Palos Ave	Palatine	60067	847-991-334	847-366-6827	Sonal Patel	Rakesh Patel	patyat@yahoo.com	Yatin Patel	847-366-6827
+53	s	Rina	Patel	2004-05-30		3090 Landwehr RD. 	Northbrook	60062	847-498-7060	815-690-0142	Sangita	Amit	docspatel@hotmail.com	Jaya Patel	847-452-7327
+54	s	Sagar	Patel	1996-05-06		1274 N Palos Ave	Palatine	60067	847-991-0334	847-366-6827	Manisha Patel	Yatin Patel	patyat@yahoo.com	Yatin Patel	847-366-6827
+55	s	Sai	Patel	2006-01-04		"1000 Charlela Ln, Apt 108"	Elk Grove village	60661	8475840228	2197796544	Pallavi Patel	Amit Patel	amitkumar.patel411@gmail.com	Amit Patel	2197796544
+56	s	Shayna	Patel	2006-01-26		3090 Landwehr Rd. 	Northbrook	60062	847-498-7060	815-690-0142	Sangita Patel	Amit Patel	docspatel@hotmail.com	Jaya Patel	847-452-7327
+57	s	Shiven	Patel	2004-04-07		6 Tangly Ct.	Bolingbrook	60440	630-296-8464	630-291-1466	Hetal	Savan	savanvpatel@yahoo.com	Savan Patel	630-854-6076
+58	s	Shreeji	Patel	2004-02-07		5500 S. County Line Road	Hinsdale	60521	312 363 8766	312 363 8766	Shivangi	Mahesh	shiv_arch@yahoo.com	Shivangi Patel	312 363 8766
+59	s	Shreemann	Patel	2007-03-20		5500 S. County Line Road	Hinsdale	60521	312 363 8766	312 363 8766	Shivangi	Mahesh	shiv_arch@yahoo.com	Shivangi Patel	312 363 8766
+60	s	Shreeya	Patel	2001-03-06		197 Jeffrey Lane	Bolingbrook	60440	6302968463	6308495944	Nikita	Haresh	nikitahpatel13@yahoo.com630	Nikita Patel	6308495944
+61	s	VED	PATEL	2009-03-04		1200 WOODLAKE DR	CAROL STREAM	60188-6033	630-372-9899	630-880-5556	VASUBEN	VISHNUBHAI	vsupatel@gmail.com	VISHNU PATEL	630-880-5556
+62	s	Abhishek 	Rathod	1999-02-02		9807 N. Canavan Ct.	Niles	60714	847-470-9716	847-530-8970	Panna Rathod	Hitesh Rathod	hiteshrathod@sbcglobal.net	Hitesh Rathod	847-530-8970
+63	s	Veer	Rathod	2009-10-27		1831 w mulloy dr	addison	60101	630-317-7428	630-400-8764	Nilam Rathod	Samir Rathod	nilampatel28@yahoo.com	samir rathod	630-400-2722
+64	s	Ishan	Shah	2004-11-24		1680 Bicek Dr	Hoffman Estates	60192	847-496-4841	847-903-3831	Rakhi	Apurva	rakhi1209@yahoo.com	Rakhi Shah	847-903-3831
+65	s	Shaalin	Shah	2007-07-05		1680 Bicek Dr	Hoffman Estates	60192	847-496-4841	847-903-3831	Rakhi	Apurva	rakhi1209@yahoo.com	Rakhi Shah	847-903-3831
+66	s	Richa	Sharma	2006-05-11		6351 w montrose #138	Chicago	60634	708-834-4939	708-834-4939	Chaitali	Dave	cdave24@GMAIL.COM	NALINI DAVE	773-766-0627
+67	s	Richa	Sharma	2006-05-11		6351 W. Montrose Ave. #138	Chicago	60634	708-834-4939	-	Chaitali Dave	No Father	cdave24@gmail.com	Chaitali	708-834-4939
+68	s	Mehir	Sheth	2000-07-06		13611 Idlewild dr	Orland Park	60462	16307650402	16303450805	Niketa	Ketan	shethmehir@gmail.com	ketan sheth	18473343655
+69	s	Gina	Sisodiya	2001-05-17		609 carriage ct	Shaumburg	60193	1224-356-0098	1224-425-2122	Vishnu	Pruthvisinh	Vpsisodiya@yahoo.com	Raj	1224-578-0829
+70	s	Krupa	Tailor	2004-11-25		10036 holly ln	Des Plaines	60016	847-298-1770	847-331-4506	Manisha 	Mitesh	No Email	Rashmi	847-452-8233
+71	s	Neal	Thakkar	2001-07-02		673 E. Nerge Road	Roselle	60172	630-980-2577	847-977-0720	Kanika N. Thakkar	Mukund N. Thakkar	mukundcpa@yahoo.com	Mukund Thakkar	847-977-0720
+72	s	Durva	Trivedi	1995-01-09		1627 Estate Circle	Naperville	60565	630-717-0276	630-536-4101	Bina Trivedi	Viral Trivedi	durvatrivedi@gmail.com	Birva Trivedi	630-803-2284
+73	s	Shiv	Trivedi	2002-11-09		1627 Estate circle	Naperville	60565	630-717-0276	630-802-2681	Bina Trivedi	Viral Trivedi	bina_vt@yahoo.com	Sonal Vyas	630-499-5906
+74	s	Varun	Trivedi	1996-11-25		4937 church st apt 2c	Skokie	60077	847-630-9865	847-630-9865	Sangta	Hiren	vartri1@gmail.com	847-630-9865	847-463-0832
+75	s	Dev	Upadhayay	2005-11-12		125 Mollingar Ct.#2A	Schaumbarg	60193	847-901-7017	847-901-7017	Jasumati	Ravi	Raviupa@yhaoo.com	Ravi Upadhayay	847-354-8120
+76	s	Aditi	Vinay	2009-03-16		354 Buckingham Ct	Lombard	60148	630 916 6928	630 903 5878	Jyothi Vinay	Vinay Shivaswamy	jyoths_hk@yahoo.com	Jyothi Vinay	630 903 5878
+77	s	Suditi	Vinay	2009-04-14		354 Buckingham Ct	Lombard	60148	630 916 6928	630 903 5878	Jyothi Vinay	Vinay Shivaswamy	jyoths_hk@yahoo.com	jyothi Vinay	630 903 5878
